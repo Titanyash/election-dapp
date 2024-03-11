@@ -1,0 +1,8 @@
+.main{
+    background-color:#203647;
+    width : 100% !important;
+    height : 12%;
+    position: fixed; /* Set the navbar to fixed position */
+    top: 0; /* Position the navbar at the top of the page */
+    text-align: center;
+}
